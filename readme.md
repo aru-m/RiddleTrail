@@ -1,2 +1,2 @@
 
-- [Actual Website](https://arushielitmus.netlify.app/)
+- [Actual Website](https://riddletrail.netlify.app/)
